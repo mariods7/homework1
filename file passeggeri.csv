@@ -1,0 +1,193 @@
+anno;scalo;nazionali/internazionali;arrivi/partenze;numero passeggeri
+2018;Linate;nazionali;arrivi;2446217
+2018;Linate;nazionali;partenze;2395291
+2018;Linate;internazionali;arrivi;2172619
+2018;Linate;internazionali;partenze;2172993
+2018;Malpensa;nazionali;arrivi;2066738
+2018;Malpensa;nazionali;partenze;2026483
+2018;Malpensa;internazionali;arrivi;10255226
+2018;Malpensa;internazionali;partenze;10213288
+2018;Orio al Serio;nazionali;arrivi;1636762
+2018;Orio al Serio;nazionali;partenze;1621984
+2018;Orio al Serio;internazionali;arrivi;4772699
+2018;Orio al Serio;internazionali;partenze;4795822
+2017;Linate;nazionali;arrivi;2481310
+2017;Linate;nazionali;partenze;2446378
+2017;Linate;internazionali;arrivi;2293514
+2017;Linate;internazionali;partenze;2281863
+2017;Malpensa;nazionali;arrivi;1589339
+2017;Malpensa;nazionali;partenze;1574885
+2017;Malpensa;internazionali;arrivi;9448358
+2017;Malpensa;internazionali;partenze;9424659
+2017;Orio al Serio;nazionali;arrivi;1625131
+2017;Orio al Serio;nazionali;partenze;1617420
+2017;Orio al Serio;internazionali;arrivi;4493020
+2017;Orio al Serio;internazionali;partenze;4495371
+2016;Linate;nazionali;arrivi;2470252
+2016;Linate;nazionali;partenze;2428154
+2016;Linate;internazionali;arrivi;2378787
+2016;Linate;internazionali;partenze;2359028
+2016;Malpensa;nazionali;arrivi;1350356
+2016;Malpensa;nazionali;partenze;1342775
+2016;Malpensa;internazionali;arrivi;8324302
+2016;Malpensa;internazionali;partenze;8294132
+2016;Orio al Serio;nazionali;arrivi;1552942
+2016;Orio al Serio;nazionali;partenze;1545902
+2016;Orio al Serio;internazionali;arrivi;3965484
+2016;Orio al Serio;internazionali;partenze;3994910
+2015;Linate;nazionali;arrivi;2537544
+2015;Linate;nazionali;partenze;2482416
+2015;Linate;internazionali;arrivi;2307942
+2015;Linate;internazionali;partenze;2310861
+2015;Malpensa;nazionali;arrivi;1271511
+2015;Malpensa;nazionali;partenze;1263364
+2015;Malpensa;internazionali;arrivi;7965083
+2015;Malpensa;internazionali;partenze;7944820
+2015;Orio al Serio;nazionali;arrivi;1573789
+2015;Orio al Serio;nazionali;partenze;1573416
+2015;Orio al Serio;internazionali;arrivi;3568602
+2015;Orio al Serio;internazionali;partenze;3589351
+2014;Linate;nazionali;arrivi;2593497
+2014;Linate;nazionali;partenze;2536212
+2014;Linate;internazionali;arrivi;1920329
+2014;Linate;internazionali;partenze;1934247
+2014;Malpensa;nazionali;arrivi;1442839
+2014;Malpensa;nazionali;partenze;1424855
+2014;Malpensa;internazionali;arrivi;7916825
+2014;Malpensa;internazionali;partenze;7885221
+2014;Orio al Serio;nazionali;arrivi;1374707
+2014;Orio al Serio;nazionali;partenze;1374133
+2014;Orio al Serio;internazionali;arrivi;2956370
+2014;Orio al Serio;internazionali;partenze;2990875
+2013;Linate;nazionali;arrivi;2600568
+2013;Linate;nazionali;partenze;2557936
+2013;Linate;internazionali;arrivi;1908062
+2013;Linate;internazionali;partenze;1917128
+2013;Malpensa;nazionali;arrivi;1507669
+2013;Malpensa;nazionali;partenze;1496032
+2013;Malpensa;internazionali;arrivi;7413982
+2013;Malpensa;internazionali;partenze;7363461
+2013;Orio al Serio;nazionali;arrivi;1402996
+2013;Orio al Serio;nazionali;partenze;1383925
+2013;Orio al Serio;internazionali;arrivi;3033560
+2013;Orio al Serio;internazionali;partenze;3062130
+2012;Linate;nazionali;arrivi;2686975
+2012;Linate;nazionali;partenze;2644056
+2012;Linate;internazionali;arrivi;1913971
+2012;Linate;internazionali;partenze;1930617
+2012;Malpensa;nazionali;arrivi;1773708
+2012;Malpensa;nazionali;partenze;1775849
+2012;Malpensa;internazionali;arrivi;7437946
+2012;Malpensa;internazionali;partenze;7341702
+2012;Orio al Serio;nazionali;arrivi;1360172
+2012;Orio al Serio;nazionali;partenze;1353974
+2012;Orio al Serio;internazionali;arrivi;3031576
+2012;Orio al Serio;internazionali;partenze;3055670
+2011;Linate;nazionali;arrivi;2799216
+2011;Linate;nazionali;partenze;2770957
+2011;Linate;internazionali;arrivi;1744777
+2011;Linate;internazionali;partenze;1746799
+2011;Malpensa;nazionali;arrivi;1947264
+2011;Malpensa;nazionali;partenze;1938592
+2011;Malpensa;internazionali;arrivi;7638810
+2011;Malpensa;internazionali;partenze;7562432
+2011;Orio al Serio;nazionali;arrivi;1278354
+2011;Orio al Serio;nazionali;partenze;1276679
+2011;Orio al Serio;internazionali;arrivi;2885696
+2011;Orio al Serio;internazionali;partenze;2897927
+2010;Linate;nazionali;arrivi;2761372
+2010;Linate;nazionali;partenze;2741720
+2010;Linate;internazionali;arrivi;1395320
+2010;Linate;internazionali;partenze;1397024
+2010;Malpensa;nazionali;arrivi;1837814
+2010;Malpensa;nazionali;partenze;1824362
+2010;Malpensa;internazionali;arrivi;7570327
+2010;Malpensa;internazionali;partenze;7481684
+2010;Orio al Serio;nazionali;arrivi;1050491
+2010;Orio al Serio;nazionali;partenze;1050491
+2010;Orio al Serio;internazionali;arrivi;2765570
+2010;Orio al Serio;internazionali;partenze;2783126
+2009;Linate;nazionali;arrivi;2935429
+2009;Linate;nazionali;partenze;2897682
+2009;Linate;internazionali;arrivi;1226461
+2009;Linate;internazionali;partenze;1234267
+2009;Malpensa;nazionali;arrivi;436816
+2009;Malpensa;nazionali;partenze;432356
+2009;Malpensa;internazionali;arrivi;8274777
+2009;Malpensa;internazionali;partenze;8205653
+2009;Orio al Serio;nazionali;arrivi;875042
+2009;Orio al Serio;nazionali;partenze;873754
+2009;Orio al Serio;internazionali;arrivi;2683383
+2009;Orio al Serio;internazionali;partenze;2712024
+2008;Linate;nazionali;arrivi;3368232
+2008;Linate;nazionali;partenze;3338107
+2008;Linate;internazionali;arrivi;1281505
+2008;Linate;internazionali;partenze;1276717
+2008;Malpensa;nazionali;arrivi;870745
+2008;Malpensa;nazionali;partenze;857906
+2008;Malpensa;internazionali;arrivi;8708887
+2008;Malpensa;internazionali;partenze;8576648
+2008;Orio al Serio;nazionali;arrivi;581050
+2008;Orio al Serio;nazionali;partenze;578352
+2008;Orio al Serio;internazionali;arrivi;2635152
+2008;Orio al Serio;internazionali;partenze;2668037
+2007;Linate;nazionali;arrivi;3728231
+2007;Linate;nazionali;partenze;3667404
+2007;Linate;internazionali;arrivi;1261549
+2007;Linate;internazionali;partenze;1267374
+2007;Malpensa;nazionali;arrivi;1555625
+2007;Malpensa;nazionali;partenze;1533655
+2007;Malpensa;internazionali;arrivi;10368721
+2007;Malpensa;internazionali;partenze;10259176
+2007;Orio al Serio;nazionali;arrivi;429069
+2007;Orio al Serio;nazionali;partenze;430642
+2007;Orio al Serio;internazionali;arrivi;2423931
+2007;Orio al Serio;internazionali;partenze;2436839
+2006;Linate;nazionali;arrivi;3453711
+2006;Linate;nazionali;partenze;3453622
+2006;Linate;internazionali;arrivi;1257842
+2006;Linate;internazionali;partenze;1257886
+2006;Malpensa;nazionali;arrivi;1563210
+2006;Malpensa;nazionali;partenze;1563212
+2006;Malpensa;internazionali;arrivi;9023462
+2006;Malpensa;internazionali;partenze;9023457
+2006;Orio al Serio;nazionali;arrivi;376714
+2006;Orio al Serio;nazionali;partenze;376705
+2006;Orio al Serio;internazionali;arrivi;2223106
+2006;Orio al Serio;internazionali;partenze;2223111
+2005;Linate;nazionali;arrivi;3337287
+2005;Linate;nazionali;partenze;3257407
+2005;Linate;internazionali;arrivi;1225809
+2005;Linate;internazionali;partenze;1265496
+2005;Malpensa;nazionali;arrivi;1564981
+2005;Malpensa;nazionali;partenze;1556174
+2005;Malpensa;internazionali;arrivi;8166156
+2005;Malpensa;internazionali;partenze;8211847
+2005;Orio al Serio;nazionali;arrivi;266045
+2005;Orio al Serio;nazionali;partenze;267064
+2005;Orio al Serio;internazionali;arrivi;1870093
+2005;Orio al Serio;internazionali;partenze;1888037
+2004;Linate;nazionali;arrivi;3213294
+2004;Linate;nazionali;partenze;3150314
+2004;Linate;internazionali;arrivi;1282753
+2004;Linate;internazionali;partenze;1298630
+2004;Malpensa;nazionali;arrivi;1729949
+2004;Malpensa;nazionali;partenze;1727829
+2004;Malpensa;internazionali;arrivi;7508108
+2004;Malpensa;internazionali;partenze;7455712
+2004;Orio al Serio;nazionali;arrivi;205525
+2004;Orio al Serio;nazionali;partenze;203524
+2004;Orio al Serio;internazionali;arrivi;1449362
+2004;Orio al Serio;internazionali;partenze;1454139
+2003;Linate;nazionali;arrivi;3228204
+2003;Linate;nazionali;partenze;3169573
+2003;Linate;internazionali;arrivi;1159606
+2003;Linate;internazionali;partenze;1198588
+2003;Malpensa;nazionali;arrivi;1934476
+2003;Malpensa;nazionali;partenze;1928529
+2003;Malpensa;internazionali;arrivi;6830719
+2003;Malpensa;internazionali;partenze;6820996
+2003;Orio al Serio;nazionali;arrivi;143425
+2003;Orio al Serio;nazionali;partenze;142057
+2003;Orio al Serio;internazionali;arrivi;1263215
+2003;Orio al Serio;internazionali;partenze;1274049
